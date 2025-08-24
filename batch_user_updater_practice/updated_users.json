@@ -1,0 +1,58 @@
+[
+  {
+    "user_id": "U1",
+    "name": "Alice",
+    "role": "admin",
+    "email": "alice@company.com",
+    "department": "Management"
+  },
+  {
+    "user_id": "U2",
+    "name": "Robert",
+    "role": "admin",
+    "email": "robert@company.com",
+    "department": "Management"
+  },
+  {
+    "user_id": "U3",
+    "name": "Charlie",
+    "role": "senior_member",
+    "email": "charlie@company.com",
+    "department": "Sales"
+  },
+  {
+    "user_id": "U4",
+    "name": "Diana",
+    "role": "member",
+    "email": "diana.marketing@company.com",
+    "department": "Marketing"
+  },
+  {
+    "user_id": "U5",
+    "name": "Eve",
+    "role": "admin",
+    "email": "eve@company.com",
+    "department": "Human Resources"
+  },
+  {
+    "user_id": "U6",
+    "name": "Frank",
+    "role": "senior_member",
+    "email": "frank.eng@company.com",
+    "department": "Engineering"
+  },
+  {
+    "user_id": "U7",
+    "name": "Grace",
+    "role": "member",
+    "email": "grace@company.com",
+    "department": "Business Development"
+  },
+  {
+    "user_id": "U8",
+    "name": "Henry Smith",
+    "role": "super_admin",
+    "email": "henry@company.com",
+    "department": "Finance"
+  }
+]

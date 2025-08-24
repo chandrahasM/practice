@@ -1,0 +1,10 @@
+[
+  {"user_id": "U1", "name": "Alice", "role": "member", "email": "alice@company.com", "department": "Engineering"},
+  {"user_id": "U2", "name": "Bob", "role": "admin", "email": "bob@company.com", "department": "Management"},
+  {"user_id": "U3", "name": "Charlie", "role": "member", "email": "charlie@company.com", "department": "Sales"},
+  {"user_id": "U4", "name": "Diana", "role": "member", "email": "diana@company.com", "department": "Marketing"},
+  {"user_id": "U5", "name": "Eve", "role": "admin", "email": "eve@company.com", "department": "HR"},
+  {"user_id": "U6", "name": "Frank", "role": "member", "email": "frank@company.com", "department": "Engineering"},
+  {"user_id": "U7", "name": "Grace", "role": "member", "email": "grace@company.com", "department": "Sales"},
+  {"user_id": "U8", "name": "Henry", "role": "admin", "email": "henry@company.com", "department": "Finance"}
+]

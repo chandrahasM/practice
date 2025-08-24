@@ -1,0 +1,10 @@
+[
+  {"user_id": "U1", "role": "admin", "department": "Management"},
+  {"user_id": "U2", "name": "Robert", "email": "robert@company.com"},
+  {"user_id": "U3", "role": "senior_member", "department": "Sales"},
+  {"user_id": "U4", "email": "diana.marketing@company.com"},
+  {"user_id": "U5", "department": "Human Resources"},
+  {"user_id": "U6", "role": "senior_member", "email": "frank.eng@company.com"},
+  {"user_id": "U7", "department": "Business Development"},
+  {"user_id": "U8", "name": "Henry Smith", "role": "super_admin"}
+]
