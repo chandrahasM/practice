@@ -1,0 +1,14 @@
+# Contract Expiry Status Updater - Dependencies
+# 
+# Core Python modules (usually included with Python):
+# - json (built-in)
+# - datetime (built-in)
+# - typing (built-in)
+# - os (built-in)
+# - tempfile (built-in)
+
+# Optional testing dependencies:
+pytest>=6.0.0
+
+# Note: This project uses only Python standard library modules
+# pytest is optional but recommended for running the test suite

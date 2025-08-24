@@ -1,0 +1,12 @@
+[
+  {"contract_id": "C001", "company": "Acme Corp", "status": "active", "expiry_date": "2025-01-15"},
+  {"contract_id": "C002", "company": "BetaCo", "status": "active", "expiry_date": "2026-01-01"},
+  {"contract_id": "C003", "company": "Gamma Inc", "status": "active", "expiry_date": "2025-09-18"},
+  {"contract_id": "C004", "company": "Delta Ltd", "status": "draft", "expiry_date": "2025-08-30"},
+  {"contract_id": "C005", "company": "Epsilon Corp", "status": "active", "expiry_date": "2025-01-10"},
+  {"contract_id": "C006", "company": "Zeta Industries", "status": "active", "expiry_date": "2027-03-15"},
+  {"contract_id": "C007", "company": "Omega Solutions", "status": "terminated", "expiry_date": "2025-01-25"},
+  {"contract_id": "C008", "company": "Theta Systems", "status": "active", "expiry_date": "2025-01-05"},
+  {"contract_id": "C009", "company": "Iota Tech", "status": "active", "expiry_date": "2025-01-30"},
+  {"contract_id": "C010", "company": "Kappa Solutions", "status": "active", "expiry_date": "2028-06-15"}
+]
