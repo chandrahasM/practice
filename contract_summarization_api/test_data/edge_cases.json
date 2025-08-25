@@ -1,0 +1,83 @@
+{
+  "test_cases": [
+    {
+      "name": "empty_contracts_list",
+      "input": {
+        "contracts": []
+      },
+      "expected_error": "At least one contract must be provided"
+    },
+    {
+      "name": "missing_contract_id",
+      "input": {
+        "contracts": [
+          {
+            "text": "This is a contract without an ID"
+          }
+        ]
+      },
+      "expected_error": "contract_id field is required"
+    },
+    {
+      "name": "missing_text",
+      "input": {
+        "contracts": [
+          {
+            "contract_id": "CONTRACT_006"
+          }
+        ]
+      },
+      "expected_error": "text field is required"
+    },
+    {
+      "name": "empty_text",
+      "input": {
+        "contracts": [
+          {
+            "contract_id": "CONTRACT_007",
+            "text": ""
+          }
+        ]
+      },
+      "expected_error": "Contract text cannot be empty"
+    },
+    {
+      "name": "very_short_text",
+      "input": {
+        "contracts": [
+          {
+            "contract_id": "CONTRACT_008",
+            "text": "Short."
+          }
+        ]
+      },
+      "expected_output": {
+        "summaries": [
+          {
+            "contract_id": "CONTRACT_008",
+            "summary": "Short."
+          }
+        ]
+      }
+    },
+    {
+      "name": "single_word_text",
+      "input": {
+        "contracts": [
+          {
+            "contract_id": "CONTRACT_009",
+            "text": "Agreement"
+          }
+        ]
+      },
+      "expected_output": {
+        "summaries": [
+          {
+            "contract_id": "CONTRACT_009",
+            "summary": "Agreement"
+          }
+        ]
+      }
+    }
+  ]
+}

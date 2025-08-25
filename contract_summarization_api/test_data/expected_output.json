@@ -1,0 +1,24 @@
+{
+  "summaries": [
+    {
+      "contract_id": "CONTRACT_001",
+      "summary": "This agreement is between ABC Corporation, a Delaware corporation with its principal place of business at 123 Business Street, New York, NY 10001 (hereinafter referred to as 'Company'), and XYZ Enterprises, a California corporation with its principal place of business at 456 Enterprise Avenue, San Francisco, CA 94102 (hereinafter referred to as 'Client')."
+    },
+    {
+      "contract_id": "CONTRACT_002",
+      "summary": "The undersigned parties agree to the following terms and conditions for the provision of consulting services."
+    },
+    {
+      "contract_id": "CONTRACT_003",
+      "summary": "SERVICE AGREEMENT. This Service Agreement (the 'Agreement') is made and entered into as of April 1, 2024, by and between Cloud Services LLC, a limited liability company organized under the laws of the State of Texas ('Provider'), and Retail Chain International, a corporation organized under the laws of the State of Florida ('Customer')."
+    },
+    {
+      "contract_id": "CONTRACT_004",
+      "summary": "EMPLOYMENT CONTRACT. This Employment Agreement is entered into between Innovation Labs, Inc. ('Employer') and John Smith ('Employee') effective as of May 1, 2024."
+    },
+    {
+      "contract_id": "CONTRACT_005",
+      "summary": "LICENSE AGREEMENT. This Software License Agreement ('License') is entered into by and between DataSoft Technologies, a software development company, and Healthcare Systems Inc., a healthcare technology provider, as of June 1, 2024."
+    }
+  ]
+}
